@@ -75,6 +75,7 @@ Dev tools:
 * [gcc] as an alternative compiler to clang. Can be invoked with appending '-' plus the version number. Calling just 'gcc' on MacOS will use the clang compiler by default. 
 * [wireshark]: for packet analysis
 * [ngrok] for easy tunnelling from localhost
+* [raspberry-pi-imager] for flashing sd cards and installing pi images
 
 [Universal Ctags]: https://ctags.io/
 [Git]: https://git-scm.com/
@@ -89,6 +90,7 @@ Dev tools:
 [gcc]: https://gcc.gnu.org/
 [wireshark]: https://gitlab.com/wireshark/wireshark
 [ngrok]: https://ngrok.com/docs
+[raspberry-pi-imager]: https://www.raspberrypi.com/software/
 
 Browsing:
 
