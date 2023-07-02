@@ -132,6 +132,7 @@ brew "htop"
 brew "gcc"
 brew "ngrok/ngrok/ngrok"
 cask "wireshark"
+cask "raspberry-pi-imager"
 
 
 #Browsing

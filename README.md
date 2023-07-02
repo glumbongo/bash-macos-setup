@@ -126,8 +126,8 @@ Programming languages, package managers, and configuration:
 
 Databases:
 
-~~* [Postgres] for storing relational data~~
-~~* [Redis] for storing key-value data~~
+* ~~[Postgres] for storing relational data~~
+* ~~[Redis] for storing key-value data~~
 
 [Postgres]: http://www.postgresql.org/
 [Redis]: http://redis.io/
